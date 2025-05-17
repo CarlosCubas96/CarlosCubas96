@@ -1,9 +1,11 @@
+
+
+<h1 align="center">👋 ¡Hola!</h1>
+
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/carloscubas96/carloscubas96/blob/main/assets/banner.gif" alt="Carlos Cubas - Full Stack Developer Banner" width="100%" />
+  <img src="https://github.com/carloscubas96/carloscubas96/blob/main/github-header.png" alt="Carlos Cubas - Full Stack Developer Banner" width="100%" />
 </p>
-
-<h1 align="center">👋 ¡Hola! Soy Carlos Cubas</h1>
 
 <h3 align="center">🧑‍💻 Full Stack Developer · Apasionado del Frontend · UX/UI & E-commerce Oriented</h3>
 
