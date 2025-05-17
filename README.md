@@ -14,11 +14,12 @@
 
 ### 🧠 Sobre mí
 
-Soy un desarrollador frontend con pasión por la **maquetación web**, el **diseño UX/UI**, y el **desarrollo de interfaces modernas y accesibles**.  
-Me interesa especialmente todo lo relacionado con el **frontend visual**, el diseño orientado a la experiencia de usuario y la conversión, así como el mundo del **e-commerce**.
-
-Actualmente estoy desarrollando mi portafolio como si fuera una **tienda online de proyectos**, categorizados por tecnologías y con funcionalidades tipo API para gestionar reseñas, favoritos, filtros, etc.
-
+- 👨‍💻 Fullstack & frontend  
+- 🎨 Maquetación, UX/UI, diseño accesible  
+- 🇬🇧 Inglés B1 (en curso)  
+- 📚 Formación continua frontend y UX  
+- 🌐 Web, LinkedIn y GitHub activos
+  
 ---
 
 ### 🛠️ Tecnologías y herramientas
