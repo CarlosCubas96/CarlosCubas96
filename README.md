@@ -109,7 +109,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CarlosCubas96-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/carloscuba96)  
 [![Gmail](https://img.shields.io/badge/Gmail-prog.carloscubas@gmail.com-red?logo=gmail&style=flat)](mailto:prog.carloscubas@gmail.com)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-ff69b4?logo=google-chrome&style=flat)](https://tusitio.com) <!-- reemplaza con tu URL -->
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-ff69b4?logo=google-chrome&style=flat)](https://carloscubaslorca.es) <!-- reemplaza con tu URL -->
 
 ---
 
